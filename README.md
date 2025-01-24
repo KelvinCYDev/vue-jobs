@@ -32,3 +32,6 @@ npm run build
 ```bash
 npm run preview
 ```
+
+## Credit
+[YouTube](https://www.youtube.com/watch?v=VeNfHj6MhgA)
