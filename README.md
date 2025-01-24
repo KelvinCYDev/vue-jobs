@@ -7,15 +7,28 @@ A simple job listing project for learning Vue.js. It uses JSON-Server for a mock
 ```sh
 npm install
 ```
+## Run JSON Server
 
-### Compile and Hot-Reload for Development
+The server will run on http://localhost:8000
+
+```bash
+npm run server
+```
+
+### Run Vite Frontend
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Build for Production
 
-```sh
+```bash
 npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
 ```
