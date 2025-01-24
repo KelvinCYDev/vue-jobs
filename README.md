@@ -1,6 +1,6 @@
 # Vue Jobs Project
 
-A simple job listing project for learning Vue.js.
+A simple job listing project for learning Vue.js. It uses JSON-Server for a mock backend.
 
 ## Usage
 
