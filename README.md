@@ -2,6 +2,8 @@
 
 A simple job listing project for learning Vue.js. It uses JSON-Server for a mock backend.
 
+<img src="public/screenshot.png" />
+
 ## Usage
 
 ```sh
