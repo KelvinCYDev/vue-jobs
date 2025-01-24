@@ -1,8 +1,24 @@
 # Vue Jobs Project
 
-A simple job listing project for learning Vue.js. It uses JSON-Server for a mock backend.
+A simple job listing project for learning Vue.js.
 
 <img src="public/screenshot.png" />
+
+## Features
+- Full CRUD application for job posts.
+- Contains JSON-Server for a mock backend API and database.
+
+## Stack used
+- Vue, Vue router
+- Tailwind (V4)
+- Vite
+- json-server
+
+## Technique learnt
+- Interpolation, Options API, Composition API
+- Directives (e.g. v-if, v-on & Methods, Shorthand)
+- Lifecycle Hooks (e.g. onMounted), Props, defineProps
+- Router, ref, reactive ...
 
 ## Usage
 
