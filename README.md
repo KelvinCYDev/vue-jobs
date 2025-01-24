@@ -35,6 +35,7 @@ npm run server
 
 ### Run Vite Frontend
 
+Vue will run on http://localhost:5173
 ```sh
 npm run dev
 ```
